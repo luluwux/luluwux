@@ -5,9 +5,8 @@
 </div>
 
 
-<div align="center">
-    <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136"></a>
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/852103749228036136?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/852103749228036136)
+</p>
 
 
 
