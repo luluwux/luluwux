@@ -12,9 +12,9 @@
 ## ・ Github Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=luluwux&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <img src="https://github-readme-stats.vercel.app/api?username=luluwux&show_icons=true&theme=dark&hide_border=true" width="%200" height="250px">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluwux&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluwux&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%200" height="200%">
 </div>
 
 
