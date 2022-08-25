@@ -1,7 +1,7 @@
 #   Hi, I am Lulu
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=luluwux&color=a200ff"/>
+    <img src="https://komarev.com/ghpvc/?username=luluwux&color=b73aff"/>
 </div>
 
 <div align="center">
