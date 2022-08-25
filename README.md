@@ -6,4 +6,8 @@
 
    [![Discord Presence](https://lanyard.cnrad.dev/api/852103749228036136)](https://discord.com/users/852103749228036136)
 
+<div align="center">
+    <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136"></a>
+</div>
+
 
