@@ -5,6 +5,6 @@
 </div>
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/852103749228036136)](https://discord.com/users/852103749228036136)
+                    [![Discord Presence](https://lanyard.cnrad.dev/api/852103749228036136)](https://discord.com/users/852103749228036136)
 
 
