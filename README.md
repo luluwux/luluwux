@@ -1,4 +1,9 @@
-### Hi there 👋
+#   Hi, I am Lulu
+
+<div align="center">
+    <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136"></a>
+</div>
+
 
 <!--
 **luluwux/luluwux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+luluwux/thearkxd
