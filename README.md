@@ -9,5 +9,5 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/luluwux" target="_blank"><img src="https://img.shields.io/github/followers/luluwux?color=9c84ef&label=Lulu&style=for-the-badge"></a>
+    <a href="https://github.com/luluwux" target="_blank"><img src="https://img.shields.io/github/followers/luluwux?color=9c84ef&label=Github&style=for-the-badge"></a>
 </div>
