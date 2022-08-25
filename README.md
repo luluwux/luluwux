@@ -5,8 +5,7 @@
 </div>
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/852103749228036136?animated=true&borderRadius=7px&theme=dark)](https://discord.com/users/852103749228036136)
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/852103749228036136)](https://discord.com/users/852103749228036136)
 
 
 
