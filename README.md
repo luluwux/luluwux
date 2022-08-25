@@ -9,13 +9,6 @@
 </div>
 
 
-## ・ Github Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=luluwux&show_icons=true&theme=dark&hide_border=true" width="%200" height="250px">
-    <br>
-</div>
-
 
 ## ・ My Social Links
 
