@@ -41,7 +41,7 @@ export default Lulu
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=luluwux&theme=dark&hide_border=true&stroke=F9213A&fire=F9213A&currStreakNum=DDDDDD&currStreakLabel=F9213A&ring=F9213A&background=0D1117">
 </div>
 
-## ・ I Know
+## ・ Programming Languages I Know
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,nodejs,py,react,java,html,css" />
