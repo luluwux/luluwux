@@ -14,7 +14,7 @@
 
 
 <div align="center">
-<img width="80%" src="[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/luluwux?cardType=github&theme=github-dark&showIcons=false&Text=DDDDDD&Title=F9213A)](https://git.io/awesome-stats-card)">
+<img width="80%" src="[https://awesome-github-stats.azurewebsites.net/user-stats/luluwux?cardType=github&theme=github-dark&showIcons=false&Text=DDDDDD&Title=F9213A)](https://git.io/awesome-stats-card)">
 </div>
 
 <div align="center">
