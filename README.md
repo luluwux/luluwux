@@ -1,6 +1,7 @@
 <div align="center">
-<img width="80%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F9213A&center=true&width=500&lines=Welcome+To+My+Profile!;I'am+Lulu.;Always+learning+new+things.)(https://git.io/typing-svg)"
+<img width="80%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F9213A&center=true&width=500&lines=Welcome+To+My+Profile!;I'am+Lulu.;Always+learning+new+things.)](https://git.io/typing-svg)"
 </div>
+
 
 ![Lulu Senpai](https://user-images.githubusercontent.com/87658293/192616207-2f05cfa3-a114-4e4f-a70a-51a40d8c14ae.png)
 
