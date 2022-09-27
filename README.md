@@ -6,7 +6,6 @@
 
 ![Lulu Senpai](https://user-images.githubusercontent.com/87658293/192616207-2f05cfa3-a114-4e4f-a70a-51a40d8c14ae.png)
 
-
 #   
 
 <div align="center">
