@@ -20,3 +20,6 @@
     <a href="https://www.youtube.com/channel/UC5YimA71E1qPNhxwXARz4IA" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC5YimA71E1qPNhxwXARz4IA?color=9c84ef&style=for-the-badge"></a>
 </div>
  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/luluwux/count.svg" />  
+</p>
