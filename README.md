@@ -1,8 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/1024397412736974918/1024397553288101948/Anime_Twitter_Header_-_Exusiai.png) 
-<div align="center">
-
-![alt text]([http://url/to/img.png](https://cdn.discordapp.com/attachments/1024397412736974918/1024398087772455083/Lulu_Senpai.png))
-
+![Lulu Senpai](https://user-images.githubusercontent.com/87658293/192616207-2f05cfa3-a114-4e4f-a70a-51a40d8c14ae.png)
 
 
 #   ⭐️ Hi, I am Lulu
