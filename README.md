@@ -13,6 +13,9 @@
 
 
 
+<div align="center">
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=luluwux&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+</div>
 
 <div align="center">
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=luluwux&theme=dark&hide_border=true&stroke=F9213A&fire=F9213A&currStreakNum=DDDDDD&currStreakLabel=F9213A&ring=F9213A&background=0D1117">
