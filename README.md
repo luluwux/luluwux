@@ -9,7 +9,7 @@
 #   
 
 <div align="center">
-    <img width="50%"><img width="80%" src="https://komarev.com/ghpvc/?username=luluwux&color=F9213A"/>
+    <img width="10%"><img width="15%" src="https://komarev.com/ghpvc/?username=luluwux&color=F9213A"/>
 </div>
 
 <div align="center">
