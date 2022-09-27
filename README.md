@@ -1,9 +1,3 @@
-<div align="center">
-<img width="80%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F9213A&center=true&width=500&lines=Welcome+To+My+Profile!;I'am+Lulu.;Always learning new things."
-</div>
-
-
-
 ![Lulu Senpai](https://user-images.githubusercontent.com/87658293/192616207-2f05cfa3-a114-4e4f-a70a-51a40d8c14ae.png)
 
 
@@ -22,7 +16,7 @@
 
 
 <div align="center">
-<img width="50%" src="https://awesome-github-stats.azurewebsites.net/user-stats/luluwux?cardType=github&theme=gotham&showIcons=false&Text=DDDDDD&Title=F9213A)(https://git.io/awesome-stats-card)">
+<img width="50%" src="(https://awesome-github-stats.azurewebsites.net/user-stats/luluwux?cardType=github&theme=github-dark&showIcons=false&Text=DDDDDD&Border=DD272700&Ring=F9213A&Title=F9213A&Background=DD272700)](https://git.io/awesome-stats-card)">
 </div>
 
 <div align="center">
