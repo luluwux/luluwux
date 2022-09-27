@@ -29,8 +29,7 @@ export default Lulu
 </div>
 
 
-  "https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136"></a>
-
+<img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136">
 
 
 <p align="center">
