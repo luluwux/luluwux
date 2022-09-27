@@ -8,7 +8,7 @@
 ![Lulu Senpai](https://user-images.githubusercontent.com/87658293/192616207-2f05cfa3-a114-4e4f-a70a-51a40d8c14ae.png)
 
 
-#   ⭐️ Hi, I am Lulu
+#   
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=luluwux&color=9c84ef"/>
