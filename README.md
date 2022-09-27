@@ -9,7 +9,7 @@
 #   
 
 <div align="center">
-    <a hirf><img width="10%"><img width="20%" src="https://komarev.com/ghpvc/?username=luluwux&color=F9213A">
+   <img width="10%"><img width="20%" src="https://komarev.com/ghpvc/?username=luluwux&color=F9213A">
 </div>
 
 <div align="center">
