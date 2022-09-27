@@ -37,7 +37,7 @@ export default Lulu
   </a>
 </p>
 
-## My Github Stats
+## ・ My Github Stats
 
 <div align="center">
 <img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/luluwux?cardType=level&theme=github-dark&showIcons=false&Text=DDDDDD&Border=DD272700&Ring=F9213A&Title=F9213A&Background=DD272700">
