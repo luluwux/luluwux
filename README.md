@@ -1,3 +1,8 @@
+![image](https://cdn.discordapp.com/attachments/1024397412736974918/1024397553288101948/Anime_Twitter_Header_-_Exusiai.png) 
+<div align="center">
+
+
+
 #   ⭐️ Hi, I am Lulu
 
 <div align="center">
