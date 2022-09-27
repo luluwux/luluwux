@@ -9,8 +9,24 @@
 #   
 
 <div align="center">
-   <img width="10%"><img width="20%" src="https://komarev.com/ghpvc/?username=luluwux&color=F9213A">
+   <img width="10%"><img width="10%" src="https://komarev.com/ghpvc/?username=luluwux&color=F9213A">
 </div>
+
+```js
+class Jahky {
+    constructor(options) {
+        this.name = "Alp",
+        this.sex = "man",
+        this.length = "1,72",
+        this.type = "human",
+        this.job = "student",
+        this.weight = "55",
+        this.age = "17"
+    };
+}
+
+export default Jahky
+```
 
 <div align="center">
     <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136"></a>
