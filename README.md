@@ -9,7 +9,7 @@
 #   
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=luluwux&color=9c84ef"/>
+    <img src="https://komarev.com/ghpvc/?username=luluwux&color=F9213A"/>
 </div>
 
 <div align="center">
