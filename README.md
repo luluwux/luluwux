@@ -2,6 +2,10 @@
 <img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F9213A&center=true&width=435&lines=Welcome+To+My+Profile!;I'am+Lulu.;A+learning+new+things.">
 </div>
 
+<div align="center">
+   <img width="15%" src="https://komarev.com/ghpvc/?username=luluwux&color=F9213A">
+</div>
+
 #
 
 ![Lulu Senpai](https://user-images.githubusercontent.com/87658293/192616207-2f05cfa3-a114-4e4f-a70a-51a40d8c14ae.png)
@@ -22,10 +26,6 @@ class Lulu {
 export default Lulu
 ```   
 #
-
-<div align="center">
-   <img width="15%" src="https://komarev.com/ghpvc/?username=luluwux&color=F9213A">
-</div>
 
 <div align="center">
  <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136"> 
