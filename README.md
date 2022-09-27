@@ -51,8 +51,8 @@ export default Lulu
 ## ・ My Social Links
 
 <div align="center">
-    <a href="https://github.com/luluwux" target="_blank"><img src="https://img.shields.io/github/followers/luluwux?color=9c84ef&label=Github&style=for-the-badge"></a>
-    <a href="https://www.youtube.com/channel/UC5YimA71E1qPNhxwXARz4IA" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC5YimA71E1qPNhxwXARz4IA?color=9c84ef&style=for-the-badge"></a>
+    <a href="https://github.com/luluwux" target="_blank"><img src="https://img.shields.io/github/followers/luluwux?color=F9213A&label=Github&style=for-the-badge"></a>
+    <a href="https://www.youtube.com/channel/UC5YimA71E1qPNhxwXARz4IA" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC5YimA71E1qPNhxwXARz4IA?color=F9213A&style=for-the-badge"></a>
 </div>
 
 
