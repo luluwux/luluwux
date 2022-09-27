@@ -28,9 +28,9 @@ export default Lulu
    <img width="15%" src="https://komarev.com/ghpvc/?username=luluwux&color=F9213A">
 </div>
 
-<div align="center">
-    <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136"></a>
-</div>
+
+  "https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136"></a>
+
 
 
 <p align="center">
