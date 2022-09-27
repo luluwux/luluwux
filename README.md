@@ -6,8 +6,6 @@
 
 ![Lulu Senpai](https://user-images.githubusercontent.com/87658293/192616207-2f05cfa3-a114-4e4f-a70a-51a40d8c14ae.png)
 
-#
-
 ```js
 class Lulu {
     constructor(options) {
@@ -23,6 +21,7 @@ class Lulu {
 
 export default Lulu
 ```   
+#
 
 <div align="center">
    <img width="15%" src="https://komarev.com/ghpvc/?username=luluwux&color=F9213A">
