@@ -35,4 +35,12 @@
     <a href="https://github.com/luluwux" target="_blank"><img src="https://img.shields.io/github/followers/luluwux?color=9c84ef&label=Github&style=for-the-badge"></a>
     <a href="https://www.youtube.com/channel/UC5YimA71E1qPNhxwXARz4IA" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC5YimA71E1qPNhxwXARz4IA?color=9c84ef&style=for-the-badge"></a>
 </div>
+
+
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/luluwux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luluwux" height="30" width="40" /></a>
+</p>
+ 
+ 
  
