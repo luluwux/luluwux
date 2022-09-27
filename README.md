@@ -11,7 +11,11 @@
     <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136"></a>
 </div>
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,css,cpp,cs,js,py,ts,node.js,java,html,vscode" />
+  </a>
+</p>
 
 <div align="center">
 <img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/luluwux?cardType=level&theme=github-dark&showIcons=false&Text=DDDDDD&Border=DD272700&Ring=F9213A&Title=F9213A&Background=DD272700">
