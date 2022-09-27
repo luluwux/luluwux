@@ -9,7 +9,7 @@
 #   
 
 <div align="center">
-    <img width="10%"><img width="15%" src="https://komarev.com/ghpvc/?username=luluwux&color=F9213A"/>
+    <img width="15%"><img width="30%" src="https://komarev.com/ghpvc/?username=luluwux&color=F9213A"/>
 </div>
 
 <div align="center">
@@ -37,10 +37,5 @@
 </div>
 
 
- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/luluwux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luluwux" height="30" width="40" /></a>
-</p>
- 
  
  
