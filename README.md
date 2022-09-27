@@ -29,7 +29,7 @@ export default Lulu
 </div>
 
 
-<img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136">
+<img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136"> SA
 
 ## ・ My Github Stats
 
