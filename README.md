@@ -6,15 +6,7 @@
 
 ![Lulu Senpai](https://user-images.githubusercontent.com/87658293/192616207-2f05cfa3-a114-4e4f-a70a-51a40d8c14ae.png)
 
-#   
-
-<div align="center">
-   <img width="15%" src="https://komarev.com/ghpvc/?username=luluwux&color=F9213A">
-</div>
-
-<div align="center">
-    <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136"></a>
-</div>
+#
 
 ```js
 class Lulu {
@@ -30,7 +22,16 @@ class Lulu {
 }
 
 export default Lulu
-```
+```   
+
+<div align="center">
+   <img width="15%" src="https://komarev.com/ghpvc/?username=luluwux&color=F9213A">
+</div>
+
+<div align="center">
+    <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136"></a>
+</div>
+
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,nodejs,py,react,java,html,css" />
