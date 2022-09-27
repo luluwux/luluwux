@@ -12,7 +12,9 @@
 </div>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luluwux&theme=dark&hide_border=true&stroke=F9213A&fire=F9213A&currStreakNum=DDDDDD&currStreakLabel=F9213A&ring=F9213A)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luluwux&theme=dark&hide_border=true&stroke=F9213A&fire=F9213A&currStreakNum=DDDDDD&currStreakLabel=F9213A&ring=F9213A&background=0D1117)](https://git.io/streak-stats)
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=luluwux&theme=dark&hide_border=true&stroke=F9213A&fire=F9213A&currStreakNum=DDDDDD&currStreakLabel=F9213A&ring=F9213A&background=0D1117">
 
 
 ## ・ My Social Links
