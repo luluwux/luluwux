@@ -13,7 +13,7 @@
 </div>
 
 ```js
-class Jahky {
+class Lulu {
     constructor(options) {
         this.name = "Alp",
         this.sex = "man",
@@ -25,7 +25,7 @@ class Jahky {
     };
 }
 
-export default Jahky
+export default Lulu
 ```
 
 <div align="center">
