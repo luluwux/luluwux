@@ -14,12 +14,10 @@
 class Lulu {
     constructor(options) {
         this.name = "Alp",
+        this.age = "17",
         this.sex = "man",
         this.length = "1,72",
-        this.type = "human",
         this.job = "student",
-        this.weight = "55",
-        this.age = "17"
     };
 }
 
