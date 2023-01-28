@@ -36,11 +36,11 @@ export default Lulu
 ## ・ My Github Stats
 
 <div align="center">
-<img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/luluwux?cardType=level&theme=github-dark&showIcons=false&Text=DDDDDD&Border=DD272700&Ring=F9213A&Title=F9213A&Background=DD272700">
+<img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/luluwux?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DD272700&Ring=ffffff&Title=ffffff&Background=DD272700">
 </div>
 
 <div align="center">
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=luluwux&theme=dark&hide_border=true&stroke=F9213A&fire=F9213A&currStreakNum=DDDDDD&currStreakLabel=F9213A&ring=F9213A&background=0D1117">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=luluwux&theme=dark&hide_border=true&stroke=ffffff&fire=ffffff&currStreakNum=DDDDDD&currStreakLabel=ffffff&ring=ffffff&background=DD272700">
 </div>
 
 
