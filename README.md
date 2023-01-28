@@ -28,10 +28,9 @@ export default Lulu
 #
 
 <div align="center">
- <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136"> 
- <a href="https://discord.com/users/967730731835080744" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/967730731835080744"> 
+ <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...4"> 
+ <a href="https://discord.com/users/967730731835080744" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/967730731835080744?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...4"> 
 </div>
-
 
 
 ## ・ My Github Stats
