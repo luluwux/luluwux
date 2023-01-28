@@ -10,7 +10,7 @@
 
 ![Lulu Senpai](https://cdn.discordapp.com/attachments/1065215272530751529/1068998014062055444/Lulushu_Banners.png)
 
-```js
+``` 
 class Lulu {
     constructor(options) {
         this.name = "Alp",
