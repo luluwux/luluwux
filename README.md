@@ -8,7 +8,7 @@
 
 #
 
-![Lulu Senpai](https://user-images.githubusercontent.com/87658293/192616207-2f05cfa3-a114-4e4f-a70a-51a40d8c14ae.png)
+![Lulu Senpai](https://cdn.discordapp.com/attachments/1065215272530751529/1068998014062055444/Lulushu_Banners.png)
 
 ```js
 class Lulu {
