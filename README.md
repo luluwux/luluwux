@@ -41,20 +41,6 @@ export default Lulu
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=luluwux&theme=dark&hide_border=true&stroke=F9213A&fire=F9213A&currStreakNum=DDDDDD&currStreakLabel=F9213A&ring=F9213A&background=0D1117">
 </div>
 
-## ・ Languages I Know
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,nodejs,py,react,java,html,css" />
-  </a>
-</p>
-
-## ・ My Social Links
-
-<div align="center">
-    <a href="https://github.com/luluwux" target="_blank"><img src="https://img.shields.io/github/followers/luluwux?color=F9213A&label=Github&style=for-the-badge"></a>
-    <a href="https://www.youtube.com/channel/UC5YimA71E1qPNhxwXARz4IA" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC5YimA71E1qPNhxwXARz4IA?color=F9213A&style=for-the-badge"></a>
-</div>
-
 
  
  
