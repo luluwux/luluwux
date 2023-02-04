@@ -16,7 +16,7 @@ class Lulu {
         this.name = "Alp",
         this.age = "17",
         this.sex = "man",
-        this.length = "1,72",
+        this.length = "1,75",
         this.job = "student",
     };
 }
