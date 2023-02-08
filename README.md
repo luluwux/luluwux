@@ -44,7 +44,10 @@ export default Lulu
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=luluwux&theme=dark&hide_border=true&stroke=ffffff&fire=ffffff&currStreakNum=DDDDDD&currStreakLabel=ffffff&ring=ffffff&background=DD272700">
 </div>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luluwux-ma&theme=discord" alt="luluwux" /></a> </p>
 
 
- 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=luluwux-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=luluwux-ma&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
