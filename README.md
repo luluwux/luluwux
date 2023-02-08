@@ -15,7 +15,7 @@ class Lulu {
     constructor(options) {
         this.name = "Alp",
         this.age = "17",
-        this.sex = "man",
+        this.sex = "he / him",
         this.length = "1,75",
         this.job = "student",
     };
