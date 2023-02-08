@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-   <img width="15%" src="https://komarev.com/ghpvc/?username=luluwux&color=070000">
+   <img width="20%" src="https://komarev.com/ghpvc/?username=luluwux&color=070000">
 </div>
 
 #
@@ -30,8 +30,11 @@ export default Lulu
  <a href="https://discord.com/users/967730731835080744" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/967730731835080744?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...4"> 
 </div>
 
+#
 
-## ・ My Github Stats
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31lmzhpy2migtudcggvvnrrth73y&cover_image=true&theme=default&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=true" /></div>
+
+#
 
 <div align="center">
 <img width="50%"><img width="80%" src="https://awesome-github-stats.azurewebsites.net/user-stats/luluwux?cardType=github&theme=github-dark&showIcons=false&preferLogin=false&Border=DD272700&Ring=ffffff&Title=ffffff&Background=DD272700">
@@ -42,5 +45,6 @@ export default Lulu
 </div>
 
 
+
  
- 
+
