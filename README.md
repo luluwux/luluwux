@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 <img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=Welcome+To+My+Profile!;I'am+Lulu.;A+learning+new+things.">
 </div>
 
@@ -9,10 +9,10 @@
 #
 
 <p align="center">
- <a href="https://discord.com/users/852103749228036136" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/luluwux" target"blank_"><img width="15%" src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/31lmzhpy2migtudcggvvnrrth73y?si=ab96304453d248fa" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a href="https://www.instagram.com/luluwux/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://discord.com/users/852103749228036136" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-191717.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/luluwux" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://open.spotify.com/user/31lmzhpy2migtudcggvvnrrth73y?si=ab96304453d248fa" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-191717.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+ <a href="https://www.instagram.com/luluwux/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-191717.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ![Lulu Senpai](https://cdn.discordapp.com/attachments/1065215272530751529/1068998014062055444/Lulushu_Banners.png)
 
