@@ -19,7 +19,7 @@
 ``` 
 class Lulu {
     constructor(options) {
-        this.name = "Ada",
+        this.name = "Alp",
         this.age = "17",
         this.sex = "he / him",
         this.length = "1,75",
