@@ -2,11 +2,11 @@
 # <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Hi+there%2C+I'am+Lulu."><img align="right" width="15%" src="https://komarev.com/ghpvc/?username=luluwux&color=191717">
 
 <div align="center">
-<img src="https://github.com/luluwux/de/assets/87658293/4abb71fa-9c1a-4492-b86d-15c83ea01fc2" width="90%"></div>
+<img src="https://github.com/luluwux/luluwux/assets/87658293/6349e038-7ac4-4064-ad0e-684bec44989d" width="90%"></div>
 
 #
 
-<img width="30%" align="right" src="https://github.com/luluwux/de/assets/87658293/273b5410-93ee-475a-b877-c688b5904e7f">
+<img width="30%" align="right" src="https://github.com/luluwux/luluwux/assets/87658293/8f3da7f1-62e0-4014-a759-5abc9074c005">
 <div align="left" width="100%">
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 #
 
-<img width="30%" align="left" src="https://github.com/luluwux/de/assets/87658293/1b7fb024-d2ae-4855-99a5-5e3e7950b669">
+<img width="30%" align="left" src="https://github.com/luluwux/luluwux/assets/87658293/accad0d5-50d9-444a-b7ca-1a8093b58b2d">
 <div align="right" width="100%">
 
 ## Technologies I use
@@ -50,7 +50,7 @@
 
 #
 
-<img width="30%" align="right" src="https://github.com/luluwux/de/assets/87658293/4162c659-265e-492b-b1fc-8d890aae3213">
+<img width="30%" align="right" src="https://github.com/luluwux/luluwux/assets/87658293/78c21640-9b6d-4601-89e4-6f820dcaa6a1">
 <div align="left" width="100%">
 
 ## My Stats
