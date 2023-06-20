@@ -28,7 +28,7 @@
 #
 
 <div align="center" >
- <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/852103749228036136?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...4"> 
+ <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img src="https://luppufy.onrender.com/852103749228036136"> 
 </div>
 
 #
