@@ -28,7 +28,7 @@
 #
 
 <div align="center" >
- <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img  width="30%" src="https://luppufy.onrender.com/member/852103749228036136"> 
+ <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img  width="30%" src="https://luppufy.onrender.com/member/852103749228036136?border=02f0d9&theme=000"> 
 </div>
 
 #
