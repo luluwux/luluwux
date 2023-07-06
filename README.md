@@ -21,15 +21,14 @@
 
 <samp>
 ・ Let me introduce myself, I'm Alp. I am 17 y/o.  I am a versatile developer with a deep passion for all aspects of software. I am developing more and more with new ideas and new projects every day<br>
+ <br> <br> <br> <br> <br> <br> <br>
 
-・ You Should Come By [Here](https://discord.gg/luppux)
+・ You Should Come By [Here](https://discord.gg/luppux) <br>
+・ Website [Soon](https://discord.gg/luppux)
 </samp>
 
 #
 
-<div align="center" >
- <a href="https://discord.com/users/852103749228036136" title="Discord Profile"><img  width="30%" src="https://luppufy.onrender.com/member/852103749228036136?border=02f0d9&theme=000"> 
-</div>
 
 #
 
@@ -50,7 +49,7 @@
 
 #
 
-<img width="30%" align="right" src="https://github.com/luluwux/luluwux/assets/87658293/78c21640-9b6d-4601-89e4-6f820dcaa6a1">
+<img width="30%" align="right" src="https://luppufy.onrender.com/member/852103749228036136?border=02f0d9&theme=000">
 <div align="left" width="100%">
 
 ## My Stats
