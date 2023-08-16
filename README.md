@@ -38,8 +38,6 @@
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=luluwux&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluwux&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
 
-<br><br>
-
 <h2 align="left" > I'm Listening Right Now </h2>
 
  <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=31lmzhpy2migtudcggvvnrrth73y&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
