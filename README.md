@@ -31,13 +31,12 @@
 ## My Stats
 
 
-<img width="30%" align="left" src="https://github.com/luluwux/luluwux/assets/87658293/accad0d5-50d9-444a-b7ca-1a8093b58b2d">
+<img width="30%" align="left" src="https://luppufy-api.onrender.com/member/852103749228036136?border=833dd4">
 
 <div align="center" width="100%">
 
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=luluwux&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluwux&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=luluwux&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluwux&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
 
 <br><br>
 
