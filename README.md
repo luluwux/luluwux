@@ -49,7 +49,7 @@
 
 #
 
-<img width="30%" align="right" src="https://luppufy.onrender.com/member/852103749228036136?border=02f0d9&theme=000">
+<img width="30%" align="right" src="https://luppufy-api.onrender.com/member/852103749228036136&theme=000">
 <div align="left" width="100%">
 
 ## My Stats
