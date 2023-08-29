@@ -17,9 +17,9 @@
 ## About Me
 
 <samp>
-• Let me introduce myself, I'm Alp. I am 17 y/o.  I am a versatile developer with a deep passion for all aspects of software. I am developing more and more with new ideas and new projects every day<br><br>
+• Let me introduce myself, I'm Alp. I am 17 y/o.  I am a versatile developer with a deep passion for all aspects of software. I am developing more and more with new ideas and new projects every day<br /><br />
 
-• You Should Come By [Here](https://discord.gg/luppux) <br>
+• You Should Come By [Here](https://discord.gg/luppux) <br />
 • My [Website](https://www.lulushu.live/)
 
 </samp>
@@ -31,7 +31,9 @@
 ## My Stats
 
 
-<img width="30%" align="left" src="https://luppufy-api.onrender.com/member/852103749228036136?border=833dd4">
+<img width="30%" align="left" src="https://github.com/luluwux/luluwux/assets/87658293/accad0d5-50d9-444a-b7ca-1a8093b58b2d">
+
+<br />
 
 <div align="center" width="100%">
 
