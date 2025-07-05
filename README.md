@@ -42,6 +42,6 @@
 
 <h2 align="left" > I'm Listening Right Now </h2>
 
- <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=31lmzhpy2migtudcggvvnrrth73y&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
+ <img width="50%" align="left" src="https://spotify-github-profile.onrender.com/card?uid=31lmzhpy2migtudcggvvnrrth73y&theme=elite&logo=false"/>
 <img  align="right" width="40%" src="https://count.getloli.com/get/@:luluwux?theme=asoul"> 
 
