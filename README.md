@@ -17,7 +17,7 @@
 ## About Me
 
 <samp>
-• Let me introduce myself, I'm Alp. I am 17 y/o.  I am a versatile developer with a deep passion for all aspects of software. I am developing more and more with new ideas and new projects every day<br /><br />
+• Let me introduce myself, I'm Alp. I am 19 y/o.  I am a versatile developer with a deep passion for all aspects of software. I am developing more and more with new ideas and new projects every day<br /><br />
 
 • You Should Come By [Here](https://discord.gg/luppux) <br />
 • My [Website](https://www.lulushu.live/)
