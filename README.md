@@ -26,7 +26,7 @@
 
 ## Technologies I use
 
-<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,sass,react,nextjs,nodejs,express,vuejs,nestjs,mysql,mongodb,arch,bootstrap,electron,express,linux,go,tailwind">
+<img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,sass,react,nextjs,nodejs,express,vuejs,nestjs,mysql,mongodb,arch,bootstrap,electron,express,linux,go,tailwind&perline">
 
 ## My Stats
 
