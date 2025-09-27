@@ -28,8 +28,7 @@
 
 <img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,sass,react,nextjs,nodejs,express,vuejs,nestjs,mysql,mongodb,arch,bootstrap,electron,express,linux,tailwind&theme=dark&perline=10">
 
-## My Stats
-
+My Stats
 
 <img width="30%" align="left" src="https://github.com/luluwux/luluwux/assets/87658293/accad0d5-50d9-444a-b7ca-1a8093b58b2d">
 
