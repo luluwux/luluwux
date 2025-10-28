@@ -35,24 +35,23 @@
 
 <br />
 
-<p align="center">
- <img width="50%" align="center" src="https://spotify-github-profile.onrender.com/card?uid=31lmzhpy2migtudcggvvnrrth73y&theme=elite&logo=true"/> 
-</p>
-
 <img  align="center" width="27%" src="https://count.getloli.com/get/@:luluwux?theme=asoul"> 
 
 ## Details
  
 <details>
-  <summary>  </summary>
+  <summary style="display: block;"></summary>
 
 <img width="75%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vuejs,nodejs,express,nestjs,mysql,mongodb,arch,bootstrap,electron,express,linux,tailwind,cpp,ps&theme=dark&perline=10">
 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=luluwux&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=luluwux&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluwux&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117">
-</details>
+
+
+## I'am Listing Now
+<div>
+    <img width="50%" src="https://spotify-github-profile.onrender.com/card?uid=31lmzhpy2migtudcggvvnrrth73y&theme=elite&logo=true"/>
+  </div>
  
 <br />
-
-<div align="center" width="100%">
 
