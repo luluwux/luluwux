@@ -17,7 +17,7 @@
  Let me introduce myself, I'm Alp 'Lulu'. I am 19 y/o.  I am a versatile developer with a deep passion for all aspects of software. I am developing more and more with new ideas and new projects every day<br /><br />
 
 • You Should Come By [Here](https://discord.gg/luppux) <br />
-• My [My Website](https://lulushuu.vercel.app/)
+• My [Website](https://lulushuu.vercel.app/)
 
 </samp>
 
