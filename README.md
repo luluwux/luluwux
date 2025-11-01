@@ -42,7 +42,7 @@
 <details>
   <summary style="display: block;"></summary>
 
-<img width="75%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vuejs,nodejs,express,nestjs,mysql,mongodb,arch,bootstrap,electron,express,linux,tailwind,cpp,ps&theme=dark&perline=10">
+<img width="75%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vuejs,nodejs,express,nestjs,mysql,mongodb,arch,bootstrap,electron,express,linux,tailwind,cpp,kali&theme=dark&perline=10">
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=luluwux&show_icons=false&theme=midnight-purple&hide_border=true&bg_color=0D1117">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luluwux&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&bg_color=0D1117">
