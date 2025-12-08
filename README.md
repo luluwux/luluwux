@@ -35,7 +35,7 @@
 
 <br />
 
-<img  align="center" width="30%" src="https://anime-counter-production.up.railway.app/@luluwux?theme=naruto"> 
+<img  align="center" width="30%" src="https://anime-counter-production.up.railway.app/@luluwux?theme=asoul"> 
 <img  align="center" width="30%" src="https://count.getloli.com/get/@:luluwux?theme=asoul"> 
 ## Details
  
