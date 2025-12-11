@@ -35,7 +35,7 @@
 
 <br />
 
-<img  align="center" width="40%" src="https://anime-counter-production.up.railway.app/@luluwux?theme=l"> 
+<img  align="center" width="40%" src="https://anime-counter-production.up.railway.app/@luluwux?theme=adventuretime"> 
 
 ## Details
  
