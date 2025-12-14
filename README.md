@@ -35,7 +35,7 @@
 
 <br />
 
-<img  align="center" width="30%" src="https://anime-counter-production.up.railway.app/@luluwux?theme=gumball"> 
+<img  align="center" width="50%" src="https://anime-counter-production.up.railway.app/@luluwux?theme=gumball"> 
 
 ## Details
  
