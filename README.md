@@ -35,7 +35,7 @@
 
 <br />
 
-<img  align="center" width="50%" src="https://anime-counter-production.up.railway.app/@luluwux?theme=l"> 
+<img  align="center" width="50%" src="https://anime-counter-production.up.railway.app/@luluwux?theme=onepiece"> 
 
 ## Details
  
