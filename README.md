@@ -35,7 +35,7 @@
 
 <br />
 
-<img  align="center" width="50%" src="https://anime-counter-production.up.railway.app/@luluwux?theme=l"> 
+<img  align="center" width="50%" src="https://anime-counter.lulushu.workers.dev/@luluwux?scale=1&theme=l&length=8"> 
 
 ## Details
  
